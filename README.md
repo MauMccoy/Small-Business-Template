@@ -1,4 +1,4 @@
-# [Small Business Template]
+# Small Business Template
 
 bleh bleh bleh . . .
 
