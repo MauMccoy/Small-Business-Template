@@ -9,10 +9,10 @@ This is a template developed as a standar to showcase to clients when searching 
 Absolutely a general skeleton. 
 
 ## Preview
-[Shop Homepage Preview](https://github.com/MauMccoy/Small-Business-Template/blob/master/smallBusinessTemplatePreview.png)
+![Shop Homepage Preview](https://github.com/MauMccoy/Small-Business-Template/blob/master/smallBusinessTemplatePreview.png)
 
 ## Preview
-[Shop Homepage Preview](https://github.com/MauMccoy/Small-Business-Template/blob/master/smallBusinessTemplatePreview2.png)
+![Shop Homepage Preview](https://github.com/MauMccoy/Small-Business-Template/blob/master/smallBusinessTemplatePreview2.png)
 
 ## Bugs and Issues
 
