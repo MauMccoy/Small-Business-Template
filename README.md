@@ -16,4 +16,4 @@ Absolutely a general skeleton.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/MauMccoy/Small-Business- nTemplate/issues) here on GitHub..png)]
+Have a bug or an issue with this template? [Open a new issue](https://github.com/MauMccoy/Small-Business-Template/issues) here on GitHub..png)]
